@@ -58,7 +58,6 @@ _No server setup is required; it runs entirely client-side._
 - **Author**: Ethan Wight
 - **Date**: April 27, 2025
 - **Course**: CMSC 410 - Computer Graphics
-- **Project**: Project 3
 
 ---
 
